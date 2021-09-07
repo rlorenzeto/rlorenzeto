@@ -1,7 +1,6 @@
-### 👋 Oii! Eu sou a Rafaela �
+### 👋 Oii! Eu sou a Rafaela.
 ### 📖 Atualmente estudante de Engenharia de Computação e iniciante no mundo da tecnologia.
-
-
+###
 
  <div>
   <a href="https://github.com/rlorenzeto">
@@ -9,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlorenzeto&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-  ##
+  ###
   
  <div>
   <a href="https://instagram.com/rlorenzetto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
