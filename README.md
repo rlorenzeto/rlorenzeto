@@ -1,4 +1,6 @@
-### Oii, eu sou a Rafaela 👋
+### Oii! Eu sou a Rafaela 👋
+### Sou estudante de Engenharia de Computação e estou iniciando no mundo da tecnologia.
+
 
  <div>
   <a href="https://github.com/rlorenzeto">
