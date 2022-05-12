@@ -1,5 +1,5 @@
 ### 👋 Oii! Eu sou a Rafaela.
-### 📖 Atualmente estudante de Engenharia de Computação e iniciante no mundo da tecnologia.
+### 
 ###
 
  <div>
