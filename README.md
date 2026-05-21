@@ -1,6 +1,6 @@
 ### 👋 Oii! Eu sou a Rafaela.
 
-👩‍💻 **Estudante de Engenharia de Computação** no CEFET-MG.
+👩‍💻 **Estudante de Engenharia de Computação no CEFET-MG**.
 
 ## 💻 Tecnologias que estou aprendendo
 
